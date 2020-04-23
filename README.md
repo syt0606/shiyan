@@ -20,7 +20,7 @@ springboot + thymeleaf + Layui + shiro + Jwt 实现后台管理平台。
 
 #### 界面预览
 
-1.  演示网站：http://106.12.161.76/
+1.  演示网站：http://106.12.161.76/login
 2.  admin/123456（造数据不易，请勿手抖）
    
 
